@@ -1,0 +1,5 @@
+# Project exclude paths
+/Poisson/.gradle/
+/Poisson/build/
+/Poisson/build/classes/kotlin/main/
+/Poisson/build/classes/kotlin/test/
